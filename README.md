@@ -4,7 +4,7 @@ UCI HAR database clean-up/summary
 Files contained include
 - this readme
 - CodeBook.md
-- run_analysis.r
+- run_analysis.R
 - UCI HAR dataset
 - tidy_data.txt
  
